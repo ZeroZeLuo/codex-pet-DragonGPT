@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "zip_mib": 7.17,
+  "zip_sha256": "e0a573338c26f5f64af7aa6e3b3fba8686f93a92103cb6e95162f0ee1976df08",
+  "files": 41,
+  "archive_crc_and_all_file_hashes": "pass",
+  "original_art_and_sprite_bytes_preserved": true,
+  "windows_first_install_repeat_conflict_and_backup_replace": "pass",
+  "mac_linux_execution": "not tested on those systems"
+}
